@@ -20,4 +20,4 @@ https://user-images.githubusercontent.com/74010757/168461854-50708749-8f02-4c1a-
 
 
 <hr />
-<h4>Photo credit goes to original owner</h4>
+<h4>&copy Photo credit goes to original owner</h4>
