@@ -1,8 +1,8 @@
 <hr />
 <h2>Vesak Poya Day - CSS</h2>
 <p>
-  Today is Vesak Poya day. I decided to make simple css animation for damma
-  chakka symbol. Happy poya day !
+  Today is Vesak Poya day. I decided to make simple css animation for Dharma
+  Chakra symbol. Happy poya day !
 </p>
 <hr />
 <h3>
