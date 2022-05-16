@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.flex-container {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  justify-content: center;
+  margin-top: 200px;
+}
+
+.flex-container > div.blue {
+  background-color: blue;
+  padding: 150px 40px;
+}
+.flex-container > div.yellow {
+  background-color: yellow;
+  padding: 150px 40px;
+}
+.flex-container > div.red {
+  background-color: red;
+  padding: 150px 40px;
+}
+.flex-container > div.white {
+  background-color: white;
+  padding: 150px 40px;
+}
+.flex-container > div.orange {
+  background-color: orange;
+  padding: 150px 40px;
+}
+.flex-container > div.orange {
+  background-color: orange;
+  padding: 150px 40px;
+}
+.all {
+  display: inline-block;
+}
+.smblue {
+  background-color: blue;
+  width: 70px;
+  height: 20%;
+}
+.smyellow {
+  background-color: yellow;
+  height: 20%;
+}
+.smyellow {
+  background-color: yellow;
+  height: 20%;
+}
+.smred {
+  background-color: red;
+  height: 20%;
+}
+.smwhite {
+  background-color: white;
+  height: 20%;
+}
+.smorange {
+  background-color: orange;
+  height: 20%;
+}
